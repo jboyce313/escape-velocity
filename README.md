@@ -1,4 +1,4 @@
-# escape-velocity
+# Escape Velocity
 
 ## Description
 
